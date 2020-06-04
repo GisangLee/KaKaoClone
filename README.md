@@ -1,6 +1,6 @@
 ﻿# KaKaoClone
 ## 1
-<img src="https://user-images.githubusercontent.com/48057905/83775456-ea6afb00-a6c1-11ea-980f-a98d42db6879.PNG" width="90%"></img>
+<img src="https://user-images.githubusercontent.com/48057905/83775456-ea6afb00-a6c1-11ea-980f-a98d42db6879.PNG" width="40%"></img>
 
 ## 2
 <img src="https://user-images.githubusercontent.com/48057905/83775466-edfe8200-a6c1-11ea-80bd-4ae6e023919c.PNG" width="90%"></img>
