@@ -15,7 +15,6 @@
 
 .friend__avatar.m-avatar {
   width: 60px;
-  height: 60px;
 }
 
 .friend .friend__column {
@@ -68,4 +67,17 @@
 
 .friend__now-music i {
   font-size: 12px;
+}
+
+.friend--lg {
+  padding: 10px 0px;
+}
+
+.friend__add-btn {
+  display: flex;
+  justify-content: center;
+  padding: 10px 15px;
+  align-items: center;
+  background-color: #f5f5f5;
+  border-radius: 8px;
 }
